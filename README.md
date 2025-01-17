@@ -2,8 +2,11 @@
 
 This project aims to predict the popularity of movies using the SEMMA (Sample, Explore, Modify, Model, and Assess) methodology. The dataset used in this project contains various features related to movies, such as title, release date, budget, revenue, genres, production companies, and more.
 
+This is a submission for WIE3007 Data Mining and Warehousing course group project
+
 ## Table of Contents
 
+- [Data Source](#data-source)
 - [SEMMA Methodology](#semma-methodology)
   - [1. Sample](#1-sample)
   - [2. Explore](#2-explore)
@@ -12,6 +15,10 @@ This project aims to predict the popularity of movies using the SEMMA (Sample, E
   - [5. Assess](#5-assess)
 - [Results](#results)
 - [Conclusion](#conclusion)
+
+## Data Source
+
+The dataset used in this project is sourced from Kaggle and contains detailed information about 52,000 animation movies scraped from the TMDB API. This dataset is a subset of the Full TMDB Movies Dataset 2024. You can find the dataset [here](https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024).
 
 ## SEMMA Methodology
 
